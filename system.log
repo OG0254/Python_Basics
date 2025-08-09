@@ -1,0 +1,4 @@
+2025-05-27 08:05:58,231 - ERROR - Invalid number entered
+2025-05-27 08:05:58,231 - INFO - Calculation process completed.
+2025-05-27 08:09:10,720 - ERROR - Division by zero attempted: num1=6, num2=0
+2025-05-27 08:09:10,721 - INFO - Calculation process completed.

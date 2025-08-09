@@ -1,0 +1,110 @@
+2025-05-27 11:40:52,445 - INFO - The initial balance is 10000 and withdrew amount is 5000, final balance 5000
+2025-05-27 11:42:15,471 - INFO - The initial balance is 10000 and withdrew amount is 2000, final balance 8000
+2025-05-27 11:43:01,720 - INFO - The initial balance is 10000 and withdrew amount is 2000, final balance 8000
+2025-05-27 11:43:28,286 - INFO - The initial balance is 10000 and withdrew amount is 0, final balance 10000
+2025-05-27 11:51:45,688 - ERROR - Insufficient Funds
+2025-05-27 11:51:45,689 - ERROR - Session end
+2025-05-27 11:51:53,736 - ERROR - Invalid data
+2025-05-27 11:51:53,736 - ERROR - Session end
+2025-05-27 11:52:05,962 - ERROR - Invalid data
+2025-05-27 11:52:05,962 - ERROR - Session end
+2025-05-27 11:52:40,305 - ERROR - Insufficient Funds
+2025-05-27 11:52:40,306 - ERROR - Session end
+2025-05-27 11:53:01,381 - INFO - The initial balance is 10000 and withdrew amount is 8000, final balance 2000
+2025-05-27 11:53:01,382 - ERROR - Session end
+2025-05-27 12:03:09,777 - ERROR - Attempted to withdraw 20000 with balance 10000
+2025-05-27 12:03:09,782 - ERROR - Session end
+2025-05-27 12:06:02,351 - ERROR - Invalid data
+2025-05-27 12:06:02,352 - ERROR - Session end
+2025-05-27 12:06:13,047 - ERROR - Invalid data
+2025-05-27 12:06:13,047 - ERROR - Session end
+2025-05-27 12:07:59,233 - ERROR - Session end
+2025-05-27 12:08:31,824 - ERROR - Session end
+2025-05-27 12:09:17,092 - ERROR - Negative Entry
+2025-05-27 12:09:17,093 - ERROR - Session end
+2025-05-27 12:10:07,475 - ERROR - Attempted to withdraw -2900
+2025-05-27 12:10:07,475 - ERROR - Session end
+2025-05-27 12:10:27,420 - ERROR - Attempted to withdraw -2000 error!
+2025-05-27 12:10:27,420 - ERROR - Session end
+2025-05-27 12:10:54,269 - ERROR - Invalid data
+2025-05-27 12:10:54,269 - ERROR - Session end
+2025-05-27 12:17:19,187 - ERROR - Session end
+2025-05-27 12:18:40,695 - INFO - The initial balance is 10000 and withdrew amount is 2000, final balance 8000
+2025-05-27 12:18:42,521 - ERROR - Session end
+2025-05-27 12:18:51,341 - INFO - The initial balance is 10000 and withdrew amount is 2000, final balance 8000
+2025-05-27 12:18:53,262 - INFO - The initial balance is 10000 and withdrew amount is 2000, final balance 8000
+2025-05-27 12:18:54,803 - ERROR - Session end
+2025-05-27 12:19:19,873 - ERROR - Session end
+2025-05-27 12:20:17,363 - INFO - The initial balance is 10000 and withdrew amount is 2000, final balance 8000
+2025-05-27 12:20:28,482 - INFO - The initial balance is 10000 and withdrew amount is 2000, final balance 8000
+2025-05-27 12:22:38,056 - ERROR - Session end
+2025-05-27 12:22:44,166 - ERROR - Attempted to withdraw 200000 with balance 10000
+2025-05-27 12:22:44,167 - ERROR - Session end
+2025-05-27 12:22:59,469 - ERROR - Invalid data
+2025-05-27 12:22:59,470 - ERROR - Session end
+2025-05-27 12:23:06,960 - ERROR - Attempted to withdraw -2000 error!
+2025-05-27 12:23:06,961 - ERROR - Session end
+2025-05-27 12:24:38,172 - ERROR - Attempted to withdraw -2000 error!
+2025-05-27 12:24:38,173 - INFO - Session end
+2025-05-27 12:24:48,035 - ERROR - Attempted to withdraw 20000 with balance 10000
+2025-05-27 12:24:48,036 - INFO - Session end
+2025-05-27 12:24:54,822 - INFO - The initial balance is 10000 and withdrew amount is 1000, final balance 9000
+2025-05-27 12:24:54,823 - INFO - Session end
+2025-05-27 12:29:27,560 - INFO - The initial balance is 10000 and withdrew amount is 2000, final balance 8000
+2025-05-27 12:29:27,561 - INFO - Session end
+2025-05-27 12:29:40,385 - INFO - The initial balance is 10000 and withdrew amount is 2000, final balance 8000
+2025-05-27 12:29:40,385 - INFO - Session end
+2025-05-27 12:29:51,030 - ERROR - Attempted to withdraw 200000 with balance 10000
+2025-05-27 12:29:51,030 - INFO - Session end
+2025-05-27 12:30:24,902 - ERROR - Invalid data
+2025-05-27 12:30:24,903 - INFO - Session end
+2025-05-27 12:30:27,245 - INFO - Session end
+2025-05-27 12:30:33,507 - INFO - The initial balance is 10000 and withdrew amount is 2000, final balance 8000
+2025-05-27 12:30:35,669 - INFO - Session end
+2025-05-27 12:31:04,680 - INFO - The initial balance is 10000 and withdrew amount is 3000, final balance 7000
+2025-05-27 12:31:50,394 - INFO - Session end
+2025-05-27 12:34:49,346 - INFO - The initial balance is 10000 and withdrew amount is 2000, final balance 8000
+2025-05-27 12:34:53,788 - INFO - Session end
+2025-05-27 12:35:36,866 - ERROR - Invalid data
+2025-05-27 12:35:36,866 - INFO - Session end
+2025-05-27 12:35:38,987 - INFO - Session end
+2025-05-27 12:35:44,347 - INFO - The initial balance is 10000 and withdrew amount is 2000, final balance 8000
+2025-05-27 12:35:46,841 - INFO - Session end
+2025-05-27 12:36:35,520 - ERROR - Invalid data
+2025-05-27 12:36:35,520 - INFO - Session end
+2025-05-27 12:36:39,332 - ERROR - Invalid data
+2025-05-27 12:36:39,332 - INFO - Session end
+2025-05-27 12:36:46,402 - ERROR - Invalid data
+2025-05-27 12:36:46,403 - INFO - Session end
+2025-05-27 12:42:14,425 - ERROR - Invalid data
+2025-05-27 12:42:14,426 - INFO - Session end
+2025-05-27 12:42:17,599 - INFO - Session end
+2025-05-27 12:42:32,558 - INFO - The initial balance is 9800 and withdrew amount is 200, final balance 9800
+2025-05-27 12:42:35,119 - INFO - Session end
+2025-05-27 12:42:40,136 - ERROR - Invalid data
+2025-05-27 12:42:40,136 - INFO - Session end
+2025-05-27 12:44:24,533 - ERROR - Invalid data
+2025-05-27 12:44:24,535 - INFO - Session end
+2025-05-27 12:44:27,005 - INFO - Session end
+2025-05-27 12:44:32,482 - INFO - The initial balance is 10000 and withdrew amount is 2000, final balance 8000
+2025-05-27 12:44:35,188 - INFO - Session end
+2025-05-27 12:44:38,925 - ERROR - Invalid data
+2025-05-27 12:44:38,925 - INFO - Session end
+2025-05-27 12:46:34,261 - ERROR - Invalid data
+2025-05-27 12:46:34,262 - INFO - Session end
+2025-05-27 12:46:36,386 - INFO - Session end
+2025-05-27 12:47:20,416 - INFO - The initial balance is 10000 and withdrew amount is 2000, final balance 8000
+2025-05-27 12:47:22,358 - INFO - Session end
+2025-05-27 12:47:39,233 - ERROR - Attempted to withdraw 20000 with balance 8000
+2025-05-27 12:47:39,233 - INFO - Session end
+2025-05-27 12:48:06,081 - INFO - The initial balance is 8000 and withdrew amount is 4000, final balance 4000
+2025-05-27 12:48:09,180 - INFO - Session end
+2025-05-27 12:49:05,523 - INFO - Session end
+2025-05-27 12:49:11,608 - INFO - The initial balance is 10000 and withdrew amount is 2000, final balance 8000
+2025-05-27 12:49:16,906 - INFO - Session end
+2025-05-27 12:49:26,738 - INFO - The initial balance is 8000 and withdrew amount is 5000, final balance 3000
+2025-05-27 12:49:31,231 - INFO - Session end
+2025-05-27 12:52:49,398 - INFO - The initial balance is 10000 and withdrew amount is 2000, final balance 8000
+2025-05-27 12:52:51,300 - INFO - Session end
+2025-05-27 12:53:12,744 - INFO - The initial balance is 8000 and withdrew amount is 4000, final balance 4000
+2025-05-27 12:53:14,593 - INFO - Session end

@@ -1,0 +1,12 @@
+2025-05-27 08:26:30,311 - ERROR - Invalid entry!
+2025-05-27 08:26:30,312 - ERROR - Session closed!
+2025-05-27 08:26:40,717 - ERROR - You have insufficient funds
+2025-05-27 08:26:40,718 - ERROR - Session closed!
+2025-05-27 08:26:49,837 - ERROR - Session closed!
+2025-05-27 08:28:29,569 - ERROR - Invalid entry!
+2025-05-27 08:28:29,570 - ERROR - Session closed!
+2025-05-27 08:28:39,800 - INFO - Deposited: 5000, Withdrew: 7000, Balance: -2000
+2025-05-27 08:28:39,800 - ERROR - You have insufficient funds
+2025-05-27 08:28:39,801 - ERROR - Session closed!
+2025-05-27 08:28:49,719 - INFO - Deposited: 6000, Withdrew: 3000, Balance: 3000
+2025-05-27 08:28:49,719 - ERROR - Session closed!
